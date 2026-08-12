@@ -42,8 +42,8 @@ export function Navbar() {
         <Link href="/" className="flex items-center gap-2 z-50">
           {/* Logo Placeholder - Will be replaced by actual image */}
           <div className="text-2xl font-heading font-bold tracking-wider flex items-center gap-1">
-            <span className="text-mak-white">MAK</span>
-            <span className="text-mak-red">SHIELD</span>
+            <span className="text-mak-white">THE DETAILING </span>
+            <span className="text-mak-red">MANIACS</span>
           </div>
         </Link>
 

@@ -13,8 +13,8 @@ export function Footer() {
           <div className="lg:col-span-1">
             <Link href="/" className="inline-block mb-6">
               <div className="text-2xl font-heading font-bold tracking-wider flex items-center gap-1">
-                <span className="text-mak-white">MAK</span>
-                <span className="text-mak-red">SHIELD</span>
+                <span className="text-mak-white">THE DETAILING </span>
+                <span className="text-mak-red">MANIACS</span>
               </div>
             </Link>
             <p className="text-mak-muted text-sm font-bold tracking-[0.2em] uppercase leading-relaxed">
