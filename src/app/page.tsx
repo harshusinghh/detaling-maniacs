@@ -8,7 +8,7 @@ import { BrandIntro } from "@/components/sections/BrandIntro";
 import { Services } from "@/components/sections/Services";
 import { FeaturedProtection } from "@/components/sections/FeaturedProtection";
 import { ProductGloss } from "@/components/sections/ProductGloss";
-import { WhyMakShield } from "@/components/sections/WhyMakShield";
+import { WhyDetailingManiacs } from "@/components/sections/WhyDetailingManiacs";
 import { DetailingProcess } from "@/components/sections/DetailingProcess";
 import { BeforeAfter } from "@/components/sections/BeforeAfter";
 import { Gallery } from "@/components/sections/Gallery";
@@ -27,7 +27,7 @@ export default function Home() {
       <Services />
       <FeaturedProtection />
       <ProductGloss />
-      <WhyMakShield />
+      <WhyDetailingManiacs />
       <DetailingProcess />
       <BeforeAfter />
       <Gallery />

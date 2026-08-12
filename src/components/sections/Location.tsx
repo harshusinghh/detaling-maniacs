@@ -33,7 +33,7 @@ export function Location() {
           >
             <div>
               <h3 className="font-heading font-black text-3xl uppercase text-white mb-8 tracking-wide">
-                MAK SHIELD <br/>
+                THE DETAILING MANIACS <br/>
                 <span className="text-mak-muted text-2xl">DETAILING STUDIO</span>
               </h3>
 

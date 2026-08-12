@@ -36,7 +36,7 @@ export function Gallery() {
               viewport={{ once: true }}
               className="font-heading font-black text-5xl md:text-6xl uppercase text-white leading-[0.9]"
             >
-              THE MAK SHIELD <br />
+              THE DETAILING MANIACS <br />
               <span className="text-mak-muted">SHOWCASE.</span>
             </motion.h2>
           </div>

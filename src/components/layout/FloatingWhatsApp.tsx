@@ -7,7 +7,7 @@ import { businessConfig } from "@/config/business";
 export function FloatingWhatsApp() {
   return (
     <motion.a
-      href={`https://wa.me/${businessConfig.contact.whatsapp}?text=Hi MAK SHIELD, I would like to enquire about detailing/protection services for my car.`}
+      href={`https://wa.me/${businessConfig.contact.whatsapp}?text=Hi THE DETAILING MANIACS, I would like to enquire about detailing/protection services for my car.`}
       target="_blank"
       rel="noopener noreferrer"
       initial={{ scale: 0, opacity: 0 }}

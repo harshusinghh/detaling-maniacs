@@ -23,7 +23,7 @@ export function BrandIntro() {
             <div className="flex items-center gap-4 mb-6">
               <span className="w-8 h-[1px] bg-mak-red" />
               <span className="text-mak-red font-bold tracking-[0.2em] text-xs uppercase">
-                THE MAK SHIELD STANDARD
+                THE DETAILING MANIACS STANDARD
               </span>
             </div>
             
@@ -34,7 +34,7 @@ export function BrandIntro() {
             
             <div className="space-y-6 text-mak-muted text-lg font-light leading-relaxed mb-10">
               <p>
-                MAK SHIELD is built around a simple belief — automotive care should be about more than making a vehicle look clean. It should be about preserving its finish, protecting its surfaces, and bringing out the character of the vehicle.
+                THE DETAILING MANIACS is built around a simple belief — automotive care should be about more than making a vehicle look clean. It should be about preserving its finish, protecting its surfaces, and bringing out the character of the vehicle.
               </p>
               <p>
                 Every vehicle receives attention to the details that matter.
@@ -46,7 +46,7 @@ export function BrandIntro() {
               className="group inline-flex items-center gap-4 text-white font-bold tracking-widest text-sm uppercase hover:text-mak-red transition-colors"
             >
               <span className="relative">
-                DISCOVER MAK SHIELD
+                DISCOVER THE DETAILING MANIACS
                 <span className="absolute -bottom-2 left-0 w-full h-[2px] bg-white/20 group-hover:bg-mak-red transition-colors" />
               </span>
               <ArrowRight className="w-5 h-5 group-hover:translate-x-2 transition-transform duration-300" />

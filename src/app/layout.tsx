@@ -13,12 +13,12 @@ const montserrat = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: "MAK Shield Detailing Studio | Car Detailing in Hyderabad",
-  description: "MAK Shield Detailing Studio in Nagole, Hyderabad provides premium automotive detailing and vehicle protection services. Explore detailing, ceramic coating, paint protection and more.",
+  title: "The Detailing Maniacs | Car Detailing in Hyderabad",
+  description: "The Detailing Maniacs in Bachupally, Hyderabad provides premium automotive detailing and vehicle protection services. Explore detailing, ceramic coating, paint protection and more.",
   keywords: [
-    "Car detailing Nagole",
+    "Car detailing Bachupally",
     "Car detailing Hyderabad",
-    "Car detailing Bandlaguda",
+    "Car detailing Mallampet",
     "Ceramic coating Hyderabad",
     "Graphene coating Hyderabad",
     "PPF Hyderabad",

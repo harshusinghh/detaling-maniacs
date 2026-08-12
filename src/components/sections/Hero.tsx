@@ -41,7 +41,7 @@ export function Hero() {
         >
           <span className="w-12 h-[1px] bg-mak-red hidden md:block" />
           <span className="text-mak-red font-bold tracking-[0.3em] text-xs md:text-sm uppercase">
-            MAK SHIELD • DETAILING STUDIO
+            THE DETAILING MANIACS
           </span>
         </motion.div>
 

@@ -7,7 +7,7 @@ import { businessConfig } from "@/config/business";
 const testimonials = [
   {
     name: "Rahul M.",
-    text: "Absolutely exceptional work on my ceramic coating. The gloss is unbelievable and the attention to detail from the MAK Shield team is unmatched in Hyderabad.",
+    text: "Absolutely exceptional work on my ceramic coating. The gloss is unbelievable and the attention to detail from The Detailing Maniacs team is unmatched in Hyderabad.",
     rating: 5
   },
   {

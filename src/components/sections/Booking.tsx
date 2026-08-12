@@ -63,7 +63,7 @@ export function Booking() {
               transition={{ delay: 0.2 }}
             >
               <a 
-                href={`https://wa.me/${businessConfig.contact.whatsapp}?text=Hi MAK SHIELD, I would like to enquire about detailing/protection services for my car.`}
+                href={`https://wa.me/${businessConfig.contact.whatsapp}?text=Hi THE DETAILING MANIACS, I would like to enquire about detailing/protection services for my car.`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group inline-flex items-center gap-4 text-white font-bold tracking-widest text-sm uppercase border-b border-mak-red pb-1 hover:text-mak-red transition-colors"
@@ -93,7 +93,7 @@ export function Booking() {
                 </div>
                 <h3 className="font-heading font-black text-3xl text-white uppercase mb-4">Request Received</h3>
                 <p className="text-mak-muted text-lg">
-                  Thanks for contacting MAK SHIELD. Our team will get in touch with you shortly.
+                  Thanks for contacting THE DETAILING MANIACS. Our team will get in touch with you shortly.
                 </p>
               </motion.div>
             ) : null}

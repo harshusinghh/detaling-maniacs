@@ -16,7 +16,7 @@ export function MobileActionBar() {
       </a>
       
       <a 
-        href={`https://wa.me/${businessConfig.contact.whatsapp}?text=Hi MAK SHIELD, I would like to enquire about detailing/protection services for my car.`}
+        href={`https://wa.me/${businessConfig.contact.whatsapp}?text=Hi THE DETAILING MANIACS, I would like to enquire about detailing/protection services for my car.`}
         target="_blank"
         rel="noopener noreferrer"
         className="flex-1 flex flex-col items-center justify-center py-3 text-[#25D366] hover:text-white transition-colors"

@@ -26,7 +26,7 @@ const features = [
   }
 ];
 
-export function WhyMakShield() {
+export function WhyDetailingManiacs() {
   return (
     <section className="py-24 md:py-32 bg-mak-secondary border-t border-white/5 relative overflow-hidden">
       {/* Decorative Grid */}
@@ -44,7 +44,7 @@ export function WhyMakShield() {
           >
             <h2 className="font-heading font-black text-5xl md:text-6xl uppercase text-white leading-tight mb-8 sticky top-32">
               WHY <br />
-              <span className="text-mak-red">MAK SHIELD?</span>
+              <span className="text-mak-red">THE DETAILING MANIACS?</span>
             </h2>
           </motion.div>
 

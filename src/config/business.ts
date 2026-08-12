@@ -1,17 +1,17 @@
 export const businessConfig = {
-  name: "MAK Shield Detailing Studio",
+  name: "The Detailing Maniacs",
   tagline: "PRECISION. PROTECTION. PRESENCE.",
   contact: {
-    phone: "+91 77805 85278",
-    whatsapp: "917780585278", // Numeric for API link
-    email: "info@makshield.com", // Placeholder
+    phone: "+91 92814 45520",
+    whatsapp: "919281445520", // Numeric for API link
+    email: "info@thedetailingmaniacs.com", // Placeholder
   },
   location: {
-    address: "S.No. 55 & 56, Nagole – Bandlaguda Road, Hanuman Gardens, Adarsh Nagar Colony, Nagole, Hyderabad, Telangana – 500068",
-    googleMapsUrl: "https://www.google.com/maps/place/Mak+Shield+Detailing+Studio/@17.3757144,78.5594878,3a,75y,90t/",
+    address: "Mallampet Rd, Bachupally, Hyderabad, Telangana",
+    googleMapsUrl: "https://www.google.com/maps/place/The+Detailing+Maniacs/@17.5398348,78.3588556,981m/data=!3m2!1e3!4b1!4m6!3m5!1s0x3bcb8d004400fcf1:0x8473d21bbb0bbc06!8m2!3d17.5398348!4d78.3614359!16s%2Fg%2F11ysq_dtm9",
     coordinates: {
-      lat: 17.3757147,
-      lng: 78.5594827
+      lat: 17.5398348,
+      lng: 78.3614359
     }
   },
   hours: [
@@ -74,12 +74,12 @@ export const businessConfig = {
     }
   ],
   social: {
-    instagram: "https://instagram.com/makshield", // Verify
-    facebook: "https://facebook.com/makshield", // Verify
+    instagram: "https://instagram.com/thedetailingmaniacs", // Verify
+    facebook: "https://facebook.com/thedetailingmaniacs", // Verify
   },
   reviews: {
     rating: 5.0,
     count: "25+",
-    link: "https://www.google.com/maps/place/Mak+Shield+Detailing+Studio/@17.3757144,78.5594878"
+    link: "https://www.google.com/maps/place/The+Detailing+Maniacs/@17.5398348,78.3588556"
   }
 };
